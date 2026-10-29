@@ -1,0 +1,21 @@
+id,reponse,etiquette,prediction,latence_s
+1,Les politiques ne pensent qu'à leur réélection.,méfiance politique,méfiance politique,1.746
+2,"Honnêtement, je ne m'y intéresse pas, ça ne change rien à ma vie.",indifférence,indifférence,0.573
+3,"Avec l'inflation, l'État nous laisse tomber pendant que les prix explosent.",méfiance économique,méfiance économique,0.447
+4,"Les institutions ne sont pas parfaites, mais elles fonctionnent et nous protègent.",confiance,confiance,0.429
+5,Il y a trop d'affaires de corruption pour que je croie encore les ministres.,méfiance politique,méfiance politique,0.443
+6,"Je ne sais pas, je n'y pense jamais.",indifférence,indifférence,0.424
+7,Les impôts augmentent mais les services publics se dégradent.,méfiance économique,méfiance économique,0.431
+8,"Je fais confiance à la justice, elle a toujours été équitable avec ma famille.",confiance,confiance,0.382
+9,"On vote, mais au final les décisions sont prises sans nous.",méfiance politique,méfiance politique,0.438
+10,"Les banques ont été sauvées en 2008, les salariés jamais.",méfiance économique,méfiance économique,0.37
+11,"Quand j'ai eu besoin de l'hôpital public, j'ai été bien soigné, alors oui j'ai confiance.",confiance,confiance,0.545
+12,"Confiance ou pas, ça m'est égal, je vis ma vie.",indifférence,indifférence,0.403
+13,"Les partis se ressemblent tous, ils mentent pour arriver au pouvoir.",méfiance politique,méfiance politique,0.47
+14,Je n'ai plus confiance depuis que ma retraite a été repoussée pour des raisons budgétaires.,méfiance économique,méfiance économique,0.437
+15,"La mairie de ma ville est à l'écoute, on voit les projets avancer.",confiance,confiance,0.392
+16,"Je ne suis pas les informations, donc je n'ai pas d'avis.",indifférence,indifférence,0.348
+17,Les grandes entreprises dictent leurs règles et l'État suit.,méfiance économique,méfiance économique,0.385
+18,Le Parlement ne représente plus les gens ordinaires.,méfiance politique,méfiance politique,0.365
+19,"Malgré les crises, je pense que nos institutions restent solides.",confiance,confiance,0.358
+20,"Peu importe qui est au pouvoir, mon quotidien reste le même.",indifférence,indifférence,0.441

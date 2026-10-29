@@ -1,0 +1,10 @@
+{
+  "quant": "q4",
+  "codebook": "minimal",
+  "run": 1,
+  "accuracy": 0.95,
+  "kappa": 0.933,
+  "latence_moyenne_s": 0.588,
+  "duree_totale_s": 11.75,
+  "tokens_generes": 403
+}

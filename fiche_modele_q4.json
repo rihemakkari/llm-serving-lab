@@ -1,0 +1,14 @@
+{
+  "modele_base": "Qwen2.5-1.5B-Instruct",
+  "source": "huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+  "licence": "Apache-2.0",
+  "moteur": "llama.cpp b11946 (Vulkan)",
+  "gpu": "GTX 1650 Ti 4 Go",
+  "contexte": 4096,
+  "temperature": 0,
+  "seed": 42,
+  "fichier": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "quantification": "Q4_K_M",
+  "sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+  "justification": "même accuracy que Q8 sur le test, 40 % de VRAM en moins, génération 53 % plus rapide"
+}

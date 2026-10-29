@@ -1,0 +1,9 @@
+{
+  "quant": "q4",
+  "run": 1,
+  "accuracy": 1.0,
+  "kappa": 1.0,
+  "latence_moyenne_s": 0.45,
+  "duree_totale_s": 9.0,
+  "tokens_generes": 317
+}
